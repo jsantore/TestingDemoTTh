@@ -11,7 +11,7 @@ def add_interest(principle, rate):
     '''
     Demo function that doesn't use typehints
     makes sure that no one is passting non numbers
-
+        add a change to doc string
     :param principle: the principle balance of the account
     :param rate: The interest rate on the account
     :return: the new balance of the account
